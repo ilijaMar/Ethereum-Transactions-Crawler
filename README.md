@@ -6,9 +6,10 @@ This is a web application for crawling Ethereum transactions.
 
 ### Frontend
 
-1. Navigate to the `frontend/src/app` directory.
+1. Navigate to the `frontend` directory.
 2. Run `npm install` to install the required dependencies.
-3. Run `ng serve` to start the Angular development server.
+3. Navigate to the `frontend/src/app` directory.
+4. Run `ng serve` to start the Angular development server.
 
 ### Backend
 
