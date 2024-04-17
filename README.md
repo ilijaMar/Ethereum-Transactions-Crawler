@@ -5,14 +5,14 @@ This is a web application for crawling Ethereum transactions.
 ## Installation and Setup
 
 ### Frontend
-
+0. run the command: npm install -g @angular/cli as administrator
 1. Navigate to the `frontend` directory.
 2. Run `npm install` to install the required dependencies.
 3. Navigate to the `frontend/src/app` directory.
 4. Run `ng serve` to start the Angular development server.
 
 ### Backend
-
+0. run the command: npm install -g typescript as administrator
 1. Navigate to the `backend` directory.
 2. Run `npm install` to install the required dependencies.
 3. Run `tsc` to compile the TypeScript files to JavaScript.
